@@ -1,0 +1,1 @@
+Курс Git от Практикум - https://practicum.yandex.ru/profile/git-basics/?from=profile_subscriptions-with-prof-recommendations
